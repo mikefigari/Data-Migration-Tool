@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Fitness"
+		},
+		{
+			"name": "Data-Migration-Tool",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
